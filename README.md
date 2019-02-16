@@ -14,4 +14,7 @@ This feature helps the user to dive deep into the individual feature/observation
 These visualizations are implemented as Polymer web components, backed by Typescript code and can be easily embedded into Jupyter notebooks or web pages.
 
 * More about  of [Facets](https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+ * [Article on Facets](https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3)             
+ 
+  
 
