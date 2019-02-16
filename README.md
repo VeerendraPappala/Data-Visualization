@@ -2,7 +2,10 @@
 Data visualization is important to create meaningful information and decision making power. Data is useless if its not creating any meaning. This repository consists of Data Visualizations Python notebooks. 
 
 
-## Facets
+## Facets:
+![data-visualization-tools-in-python-15-638](https://user-images.githubusercontent.com/45025357/52860670-1b828d80-3156-11e9-98f1-b0b950b93ae8.jpg)
+
+ 
 Facets is an open-source visualisation tool released by Google under the PAIR(People + AI Research) initiative. This tool helps us to understand and analyse the Machine Learning datasets. Facets consist of two visualisations, both of which help to drill down the data and provide great insights without much of work at user’s end.
  
  **1. Facets Overview**
