@@ -20,4 +20,11 @@ These visualizations are implemented as Polymer web components, backed by Typesc
  * [Article on Facets](https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3)             
  
   
+## Pyviz
+ Now, to choose the best tool for our job from amongst all of these is a bit tricky and confusing. PyViz tries to plug this situation. It helps to streamline the process of working with small and large datasets (from a few points to billions) in a web browser, whether doing exploratory analysis, making simple widget-based tools or building full-featured dashboards.
+ **PyViz Ecosystem** 
+PyViz is a coordinated effort to make data visualization in Python easier to use, learn and more powerful. PyViz consists of a set of open-source Python packages to work effortlessly with both small and large datasets right in the web browsers. PyViz is just the choice for something as simple as mere EDA or something as complex as creating a widget enabled dashboard.
+ 
+ * [pyviz Documentation](http://pyviz.org)
+  
 
